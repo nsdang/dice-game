@@ -7,6 +7,3 @@
 
 ### Overview
 A program written in Python. This game allows player to throw five dices and try to get the highest total score.
-
-
-### dice-game's Functionalities
